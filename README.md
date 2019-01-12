@@ -1,4 +1,4 @@
 synapseTutorials
 ================
 
-Small Vignettes of Synapse use
+Small independent vignettes showing synapse usage
